@@ -1,6 +1,6 @@
 # Talkify - Bangla to English Real-Time Speech Translation
 
-**⚠️ Warning: This project is still under development. Some features may not be fully functional yet. Please use with caution. ⚠️**
+**⚠️ This project is still under development. Some features may not be fully functional yet ⚠️**
 
 A web app that converts live Bangla speech to English text in real-time. The translated text is also grammatically corrected.
 

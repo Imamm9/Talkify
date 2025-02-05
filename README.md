@@ -46,4 +46,4 @@ A web app that converts live Bangla speech to English text in real-time. The tra
 
 ## License
 
-This project is open-source under the MIT License.
+This project is open-source, and credit to the original creator is appreciated.

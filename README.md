@@ -1,4 +1,4 @@
-# ভাষান্তর (Translation) - Bangla to English Real-Time Speech Translation
+# Talkify - Bangla to English Real-Time Speech Translation
 
 **⚠️ Warning: This project is still under development. Some features may not be fully functional yet. Please use with caution. ⚠️**
 
